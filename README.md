@@ -189,5 +189,4 @@ Now let's practice one more backgrounding technique with a different command.
 1. "Often misused" https://en.wikipedia.org/wiki/Cat_(Unix)#Useless_use_of_cat
 2. "more or less" http://unix.stackexchange.com/questions/81129/what-are-the-differences-between-most-more-and-less
 3. "Command Line Crash Course" http://learnpythonthehardway.org/book/appendixa.html
-4. "VIM 101" https://www.linux.com/learn/vim-101-beginners-guide-vim
-
+4. "VIM 101" https://www.linux.com/learn/vim-101-beginners-guide-vim dir2/pizza
